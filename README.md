@@ -9,7 +9,7 @@
 
 ### :bulb: Conheça mais sobre mim
 
-Com mais de **quatro anos de experiência** com dados, trilhei um caminho diversificado, explorando **diversas tecnologias**, até me consolidar como especialista em Powerbi. Além das minhas habilidades técnicas, tenho caracteristicas distintas.
+Com mais de **quatro anos de experiência** com dados, trilhei um caminho diversificado, explorando **diversas tecnologias**, até me consolidar como especialista em Powerbi. Além das minhas habilidades técnicas, tenho caracteristicas de liderança e desenvolvimento de projetos.
 
 ### :rocket: Tecnologias 
 <p align="left"> 
