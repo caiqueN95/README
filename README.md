@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/badge/caiqueneves70@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />](caiqueneves70@gmail.com)
 
 - 🤿 **Analista de dados** há mais de 4 anos
-- ⚡ **Graduada** em Engenharis de produção
+- ⚡ **Graduado** em Engenharis de produção
 - 🌱 Sou **especialista em PowerBi**
 
 ### :bulb: Conheça mais sobre mim
