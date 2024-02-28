@@ -1,7 +1,7 @@
 ### Olá, bem vindo(a)!
 
 [<img src="https://img.shields.io/badge/caiqueneves-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/caiquepcn/)
-[<img src="https://img.shields.io/badge/nadiaaoliverr@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />](caiqueneves70@gmail.com)
+[<img src="https://img.shields.io/badge/caiqueneves70@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />](caiqueneves70@gmail.com)
 
 - 🤿 **Analista de dados** há mais de 4 anos
 - ⚡ **Graduada** em Engenharis de produção
